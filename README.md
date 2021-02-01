@@ -234,7 +234,7 @@ Bien que cela puisse paraître étrange de prime abord, cela permet d'éviter de
 | `<=` 		| inférieur ou égal 	|
 | `!` 		| négation 				|
 | `>=` 		| supérieur ou égal 	|
-| `||` 		| ou logique 			|
+| <code>&#124;&#124;</code> 		| ou logique 			|
 | `&&`  	| et logique 			|
   
 ### Opérateurs sur les bits  
@@ -244,7 +244,7 @@ Bien que cela puisse paraître étrange de prime abord, cela permet d'éviter de
 | `>>` 		| décalage à droite 		|
 | `&` 		| et 						|
 | `<<` 		| décalage à gauche 		|
-| `|` 		| ou 						|
+| <code>&#124;</code>  	| ou 						|
 | `~` 		| négation (complément à un)|
 | `^` 		| ou exclusif 				|
   
