@@ -375,7 +375,7 @@ printf("chaine: %i, entier: %i, flottant: %i, personne: %i\n",
     sizeof (struct Personne));  
 ```
   
-20. À la suite de la définition de la strcture `Personne`, définissez une structure `Famille` contenant 5 champs :
+20. À la suite de la définition de la structure `Personne`, définissez une structure `Famille` contenant 5 champs :
     - `nom` : une chaîne de caractères ;  
     - `pere` : une personne ;  
     - `mere` : une personne ;  
